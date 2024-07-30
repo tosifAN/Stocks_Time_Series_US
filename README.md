@@ -1,1 +1,1 @@
-Hackathon || Headstarter || Stock Price Time Series US
+Hackathon || Headstarter AI || Stock Price Time Series US
